@@ -1,31 +1,17 @@
 
 
 
-.header-section{
-    display: block;
-    justify-content: center;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/43/385/199/collection-commerce-gold-gold-bars-wallpaper-preview.jpg);
-    height: 80vh;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-blend-mode: lighten;
-} 
 
-.header-section p {
-  font-size: 16px;
-  color: gold;
-  font-weight: bolder;
-  margin-top: 15px;
-}
-.subtext{ font-size: 50px;
+
+.subtext2{ font-size: 20px;
     font-weight: bolder;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(119, 240, 119);
+    color: rgb(231, 240, 231);
 }
-.subtext2{ font-size: 15px;
+#subtext3{ font-size: 30px;
   font-weight: bolder;
   font-family: 'Courier New', Courier, monospace;
-  color: green;
+  color:white;
 }
 
 
@@ -38,7 +24,7 @@
 
 .input {
     text-align: center;
-    width: 80%;
+    width: 85%;
     padding: 15px 15px;
     border-radius: 10px;
     border: 1px solid #10d33a;
@@ -127,5 +113,15 @@
   gold;
 }
 
-.form-center{
-    
+.banner {
+  position: relative;
+  height: 200px;
+  background-image: url(https://images.unsplash.com/photo-1556621595-6dd9502e265e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60);  
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 100%;
+  }
+  
